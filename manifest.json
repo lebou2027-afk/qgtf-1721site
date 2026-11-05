@@ -1,1 +1,9 @@
-
+{
+  "name": "Quincaillerie Generale Toure & Freres 17.21",
+  "short_name": "TOURE 17.21",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f4c9c",
+  "theme_color": "#0f4c9c",
+  "description": "Quincaillerie Generale Toure & Freres 17.21 - Boutique en ligne"
+}
